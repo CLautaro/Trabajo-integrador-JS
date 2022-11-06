@@ -1,0 +1,36 @@
+.trato-1{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.texto-BsAs{
+    text-align: right;
+}
+
+.trato-2{
+    margin-right: 6%;
+    margin-bottom: 6%;
+    width: 40%;
+    height: auto;
+}
+
+.trato-2 h2{
+    font-size: 1.5vw;
+    text-align: initial;
+}
+
+.card-img{
+    opacity: 0.4;
+    height: 70vh;
+    object-fit: cover;
+}
+
+.foot {
+    background-color: #1c445a;
+  }
+
+.botonEnviar {
+    background-color: #95c842 !important;
+    border-color: #95c842 !important;
+  }
